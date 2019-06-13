@@ -15,17 +15,17 @@ export let screenW = Dimensions.get('window').width
 export let screenH = Dimensions.get('window').height
 const fontScale = PixelRatio.getFontScale()
 export let pixelRatio = PixelRatio.get()
-//像素密度
+// 像素密度
 export const DEFAULT_DENSITY = 2
-//px转换成dp
-//以iphone6为基准,如果以其他尺寸为基准的话,请修改下面的defaultWidth和defaultHeight为对应尺寸即可. 以下为1倍图时
+// px转换成dp
+// 以iphone6为基准,如果以其他尺寸为基准的话,请修改下面的defaultWidth和defaultHeight为对应尺寸即可. 以下为1倍图时
 const defaultWidth = 750
 const defaultHeight = 1334
 const w2 = defaultWidth / DEFAULT_DENSITY
-//px转换成dp
+// px转换成dp
 const h2 = defaultHeight / DEFAULT_DENSITY
 
-//缩放比例
+// 缩放比例
 const _scaleWidth = screenW / defaultWidth
 const _scaleHeight = screenH / defaultHeight
 
