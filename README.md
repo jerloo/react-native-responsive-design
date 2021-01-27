@@ -1,11 +1,11 @@
 # react-native-responsive-design
 
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
-[![Greenkeeper badge](https://badges.greenkeeper.io/alexjoverm/react-native-responsive-design.svg)](https://greenkeeper.io/)
-[![Travis](https://img.shields.io/travis/alexjoverm/react-native-responsive-design.svg)](https://travis-ci.org/alexjoverm/react-native-responsive-design)
-[![Coveralls](https://img.shields.io/coveralls/alexjoverm/react-native-responsive-design.svg)](https://coveralls.io/github/alexjoverm/react-native-responsive-design)
-[![Dev Dependencies](https://david-dm.org/alexjoverm/react-native-responsive-design/dev-status.svg)](https://david-dm.org/alexjoverm/react-native-responsive-design?type=dev)
-[![Donate](https://img.shields.io/badge/donate-paypal-blue.svg)](https://paypal.me/AJoverMorales)
+[![Greenkeeper badge](https://badges.greenkeeper.io/jeremaihloo/react-native-responsive-design.svg)](https://greenkeeper.io/)
+[![Travis](https://img.shields.io/travis/jeremaihloo/react-native-responsive-design.svg)](https://travis-ci.org/jeremaihloo/react-native-responsive-design)
+[![Coveralls](https://img.shields.io/coveralls/jeremaihloo/react-native-responsive-design.svg)](https://coveralls.io/github/jeremaihloo/react-native-responsive-design)
+[![Dev Dependencies](https://david-dm.org/jeremaihloo/react-native-responsive-design/dev-status.svg)](https://david-dm.org/jeremaihloo/react-native-responsive-design?type=dev)
+<!-- [![Donate](https://img.shields.io/badge/donate-paypal-blue.svg)](https://paypal.me/jeremaihloo) -->
 
 A responsive solution for iphone6 ui design.
 
