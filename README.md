@@ -1,12 +1,12 @@
 # react-native-responsive-design
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/jerloo/react-native-responsive-design/blob/master/LICENSE) 
 [![npm version](https://img.shields.io/npm/v/@apprush/react-native-responsive-design.svg?style=flat)](https://www.npmjs.com/package/@apprush/react-native-responsive-design) 
-[![CircleCI Status](https://circleci.com/gh/facebook/react.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/facebook/react)
- [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://reactjs.org/docs/how-to-contribute.html#your-first-pull-request)
-[![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/jerloo/react-native-responsive-design/blob/master/LICENSE) 
+ ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+ <!-- [![CircleCI Status](https://circleci.com/gh/facebook/react.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/facebook/react) -->
+<!-- [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 [![Travis](https://img.shields.io/travis/jeremaihloo/@apprush/react-native-responsive-design.svg)](https://travis-ci.org/jeremaihloo/react-native-responsive-design)
-![David](https://img.shields.io/david/@apprush/react-native-responsive-design)
+![David](https://img.shields.io/david/@apprush/react-native-responsive-design) -->
 <!-- [![Donate](https://img.shields.io/badge/donate-paypal-blue.svg)](https://paypal.me/jeremaihloo) -->
 
 A responsive solution for iphone6 ui design.
