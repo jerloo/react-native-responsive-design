@@ -1,10 +1,12 @@
-# @apprush/react-native-responsive-design
+# react-native-responsive-design
 
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/jerloo/react-native-responsive-design/blob/master/LICENSE) 
+[![npm version](https://img.shields.io/npm/v/@apprush/react-native-responsive-design.svg?style=flat)](https://www.npmjs.com/package/@apprush/react-native-responsive-design) 
+[![CircleCI Status](https://circleci.com/gh/facebook/react.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/facebook/react)
+ [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://reactjs.org/docs/how-to-contribute.html#your-first-pull-request)
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
-[![Greenkeeper badge](https://badges.greenkeeper.io/jeremaihloo/@apprush/react-native-responsive-design.svg)](https://greenkeeper.io/)
 [![Travis](https://img.shields.io/travis/jeremaihloo/@apprush/react-native-responsive-design.svg)](https://travis-ci.org/jeremaihloo/react-native-responsive-design)
-[![Coveralls](https://img.shields.io/coveralls/jeremaihloo/@apprush/react-native-responsive-design.svg)](https://coveralls.io/github/jeremaihloo/react-native-responsive-design)
-[![Dev Dependencies](https://david-dm.org/apprush/react-native-responsive-design/dev-status.svg)](https://david-dm.org/@apprush/react-native-responsive-design?type=dev)
+![David](https://img.shields.io/david/@apprush/react-native-responsive-design)
 <!-- [![Donate](https://img.shields.io/badge/donate-paypal-blue.svg)](https://paypal.me/jeremaihloo) -->
 
 A responsive solution for iphone6 ui design.
@@ -29,4 +31,14 @@ import {
   isIphoneX, 
   ifIphoneX 
 } from '@apprush/react-native-responsive-design';
+
+const styles = StyleSheet.crete({
+  container: {
+    width: scaleSize(100),
+    height: scaleHeight(100),
+  },
+  text: {
+    fontSize: setSpText2(16),
+  }
+})
 ```
