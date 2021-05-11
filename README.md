@@ -1,10 +1,10 @@
-# react-native-responsive-design
+# @apprush/react-native-responsive-design
 
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
-[![Greenkeeper badge](https://badges.greenkeeper.io/jeremaihloo/react-native-responsive-design.svg)](https://greenkeeper.io/)
-[![Travis](https://img.shields.io/travis/jeremaihloo/react-native-responsive-design.svg)](https://travis-ci.org/jeremaihloo/react-native-responsive-design)
-[![Coveralls](https://img.shields.io/coveralls/jeremaihloo/react-native-responsive-design.svg)](https://coveralls.io/github/jeremaihloo/react-native-responsive-design)
-[![Dev Dependencies](https://david-dm.org/jeremaihloo/react-native-responsive-design/dev-status.svg)](https://david-dm.org/jeremaihloo/react-native-responsive-design?type=dev)
+[![Greenkeeper badge](https://badges.greenkeeper.io/jeremaihloo/@apprush/react-native-responsive-design.svg)](https://greenkeeper.io/)
+[![Travis](https://img.shields.io/travis/jeremaihloo/@apprush/react-native-responsive-design.svg)](https://travis-ci.org/jeremaihloo/react-native-responsive-design)
+[![Coveralls](https://img.shields.io/coveralls/jeremaihloo/@apprush/react-native-responsive-design.svg)](https://coveralls.io/github/jeremaihloo/react-native-responsive-design)
+[![Dev Dependencies](https://david-dm.org/apprush/react-native-responsive-design/dev-status.svg)](https://david-dm.org/@apprush/react-native-responsive-design?type=dev)
 <!-- [![Donate](https://img.shields.io/badge/donate-paypal-blue.svg)](https://paypal.me/jeremaihloo) -->
 
 A responsive solution for iphone6 ui design.
@@ -12,7 +12,7 @@ A responsive solution for iphone6 ui design.
 ### Usage
 
 ```bash
-yarn add react-native-responsive-design
+yarn add @apprush/react-native-responsive-design
 ```
 
 ### Features
@@ -28,5 +28,5 @@ import {
   setSpText2, 
   isIphoneX, 
   ifIphoneX 
-} from 'react-native-responsive-design';
+} from '@apprush/react-native-responsive-design';
 ```
